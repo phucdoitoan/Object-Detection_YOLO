@@ -1,6 +1,6 @@
 # Object-Detection_YOLO
 
-### Pytorch implementation of YOLO model for object detection project in "IST Seminar at Computer Vision Lab", Kyoto University, Spring 2020.
+### Pytorch implementation of [YOLO](https://arxiv.org/abs/1506.02640) model for object detection project in "IST Seminar at Computer Vision Lab", Kyoto University, Spring 2020.
 
 #### Dataset: 
 * Images: size 1x300x300, containing a Hiragana character and Kanji characters. 
