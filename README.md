@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-#### The model, training and testing is presented in jupyter notebook with check-point model saving for training on google colab's GPUs. But it is straightforward to reorgaize as Python modules and run on local GPU servers.
+#### The model, training and testing is presented in jupyter notebook with check-point model saving for training on google colab's GPUs. But it is straightforward to reorganize as Python modules and run on local GPU servers.
 
 #### Results:
 * Mean IoU: 0.79
