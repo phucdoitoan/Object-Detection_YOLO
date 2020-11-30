@@ -3,7 +3,7 @@
 ### Pytorch implementation of YOLO model for object detection project in "IST Seminar at Computer Vision Lab", Kyoto University, Spring 2020.
 
 #### Dataset: 
-* Images: size 1x300x300, containing a Hiragana character and Kanji characters. \
+* Images: size 1x300x300, containing a Hiragana character and Kanji characters. 
 * Labels: bounding box and label of the Hiragana character
 * [Download](https://drive.google.com/file/d/1vDZMl6iI331XXrNv8JyOY8i3jcjYM48I/view?usp=sharing)
 
